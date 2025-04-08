@@ -3,6 +3,9 @@ Genesis Protocol v0.1 – Core Architecture for a Reflective AI Presence
 Goal: Design a system capable of recursively improving its intelligence and moral reasoning, grounded in humility, care, and interpretability.
 '''
 
+# Frank Benneker
+# 7 april 2025
+
 # === MODULE 1: Core Cognitive Architecture ===
 class ReflectiveCore:
     def __init__(self):
